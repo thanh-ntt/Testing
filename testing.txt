@@ -1,3 +1,4 @@
 hello world
 edited
 master -- conflict
+edit master
